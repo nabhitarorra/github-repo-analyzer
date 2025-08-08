@@ -65,7 +65,7 @@ GITHUB_API_TOKEN=""
 ### 3. Run with Docker
 ```env
 docker-compose up --build
-```env
+```
 
 This will:
 	- Build the app container

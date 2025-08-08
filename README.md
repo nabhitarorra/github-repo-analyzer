@@ -81,7 +81,7 @@ This will:
 	•	NLP-derived tech tags
 	•	Stars, forks, issues, language, etc.
 
-⸻
+---
 
 How It Works
 	•	GitHub API: Fetches metadata + README + commits

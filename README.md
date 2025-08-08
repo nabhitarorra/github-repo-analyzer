@@ -60,6 +60,7 @@ Create a file named `.env` in the root directory:
 
 ```env
 GITHUB_API_TOKEN=""
+'''
 
 ### 3. Run with Docker
 

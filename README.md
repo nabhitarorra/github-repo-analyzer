@@ -63,15 +63,16 @@ GITHUB_API_TOKEN=""
 ```
 
 ### 3. Run with Docker
-
+```env
 docker-compose up --build
+```env
 
 This will:
-	•	Build the app container
-	•	Download the spaCy model
-	•	Expose the app at: http://localhost:8050
+	- Build the app container
+	- Download the spaCy model
+	- Expose the app at: http://localhost:8050
 
-💡 How to Use It
+## How to Use It
 	1.	Go to: http://localhost:8050
 	2.	Enter a public GitHub repo URL like:
 	•	https://github.com/fastapi/fastapi
